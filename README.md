@@ -11,3 +11,5 @@ https://cloud.google.com/apigee/docs/api-platform/fundamentals/understanding-rou
 https://docs.apigee.com/api-platform/antipatterns/intro/
 
 https://docs.apigee.com/api-platform/reference/limits/
+
+https://api.slack.com/events/url_verification
