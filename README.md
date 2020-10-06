@@ -13,3 +13,9 @@ https://docs.apigee.com/api-platform/antipatterns/intro/
 https://docs.apigee.com/api-platform/reference/limits/
 
 https://api.slack.com/events/url_verification
+
+
+RSS
+--
+
+https://docs.apigee.com/notifications
